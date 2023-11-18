@@ -1,0 +1,10 @@
+numpy
+mayplotlib
+pandas
+seaborn
+yfinance
+datetime
+dimod
+neal
+dwave
+qiskit
